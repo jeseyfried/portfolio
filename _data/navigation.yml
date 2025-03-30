@@ -1,11 +1,11 @@
 main:
-  - title: "Posts"
-    url: /posts/
+  - title: "CV"
+    url: /cv/
   - title: "Publications"
     url: /publications/
-  - title: "Categories"
-    url: /categories/
   - title: "Teaching"
     url: /teaching/
+  - title: "Podcasts"
+    url: /podcasts/
   - title: "Creative"
     url: /creative/
