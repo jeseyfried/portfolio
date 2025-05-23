@@ -76,13 +76,13 @@ var APP_DATA = {
           "yaw": -1.0435383471180888,
           "pitch": -0.15874789437096304,
           "title": "Two sample posters printed with the HP DesignJet T630",
-          "text": "Text"
+          "text": "This is an inkjet printer that prints on regular paper"
         },
         {
           "yaw": 1.8294143652260466,
           "pitch": -0.20409006224483583,
           "title": "Sample 3D printed objects",
-          "text": "<br>"
+          "text": "Samples include a replica of Notre Dame and a statue from Teotihuacan"
         }
       ]
     }
