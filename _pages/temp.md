@@ -1,6 +1,6 @@
 ---
 permalink: /temp/
-title: "Temporary Location"
+title: "Amaranth Tour"
 ---
 
 
