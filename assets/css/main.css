@@ -503,6 +503,34 @@ p.carousel-caption {
   margin:.5rem 0 0 2rem;
 }
 
+/*****************************************************
+SIDEBAR
+*****************************************************/
+
+.sidebar img {
+  display: block;
+  margin: 0 auto;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid #ccc;
+}
+
+.sidebar a {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1rem;
+  color: #333;
+  text-align: center;
+  display: block;
+  margin-top: 0.5rem;
+  text-decoration: none;
+}
+
+.sidebar a:hover {
+  color: #005999;
+  text-decoration: underline;
+}
 
 } /* end media screen */
 

@@ -1,7 +1,12 @@
 <div class="sidebar">
     <ul>
         {% for item in site.data.sidebar %}
-        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+        <li>
+            {% if item.image_url %}
+            <img src="{{ item.image_url }}" alt="{{ item.alt_text }}">
+            {% endif %}
+            <a href="{{ item.url }}">{{ item.title }}</a>
+        </li>
         {% endfor %}
     </ul>
 </div>
