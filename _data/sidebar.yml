@@ -1,4 +1,3 @@
-
 - title: Home
   url: /
 - title: About
@@ -7,3 +6,6 @@
   url: /projects/
 - title: Contact
   url: /contact/
+- title: Profile Photo
+  image_url: /assets/images/profile.jpg
+  alt_text: "Profile photo of Jonathan"
