@@ -1,11 +1,16 @@
 <div class="sidebar">
+    <!-- Profile Section -->
+    {% if site.data.sidebar.profile %}
+    <div class="profile">
+        <img src="{{ site.data.sidebar.profile.image_url }}" alt="{{ site.data.sidebar.profile.alt_text }}">
+    </div>
+    {% endif %}
+
+    <!-- Links Section -->
     <ul>
-        {% for item in site.data.sidebar %}
+        {% for link in site.data.sidebar.links %}
         <li>
-            {% if item.image_url %}
-            <img src="{{ item.image_url }}" alt="{{ item.alt_text }}">
-            {% endif %}
-            <a href="{{ item.url }}">{{ item.title }}</a>
+            <a href="{{ link.url }}">{{ link.title }}</a>
         </li>
         {% endfor %}
     </ul>
