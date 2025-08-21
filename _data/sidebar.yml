@@ -1,10 +1,12 @@
-image_url: /assets/images/site/js-photo-3.jpeg
-alt_text: "Profile photo of Jonathan"
-- title: Home
-  url: /
-- title: About
-  url: /about/
-- title: Projects
-  url: /projects/
-- title: Contact
-  url: /contact/
+profile:
+  image_url: /assets/images/site/js-photo-3.jpeg
+  alt_text: "Profile photo of Jonathan"
+links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Projects
+    url: /projects/
+  - title: Contact
+    url: /contact/
