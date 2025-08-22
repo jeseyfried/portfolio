@@ -530,6 +530,14 @@ SIDEBAR
   border-radius: 50%;
 }
 
+/* Profile description */
+.sidebar .profile p {
+  text-align: left; /* Align text to the left */
+  padding: 10px;
+  font-size: 14px;
+  color: #555;
+}
+
 /* Links section */
 .sidebar ul {
   list-style: none;
