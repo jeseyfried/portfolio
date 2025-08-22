@@ -522,7 +522,7 @@ SIDEBAR
 /* Profile section */
 .sidebar .profile {
   padding: 20px;
-  text-align: center;
+  text-align: left;
 }
 
 .sidebar .profile img {
