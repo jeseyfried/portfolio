@@ -507,29 +507,50 @@ p.carousel-caption {
 SIDEBAR
 *****************************************************/
 
-.sidebar img {
-  display: block;
-  margin: 0 auto;
-  width: 120px;
-  height: 120px;
-  object-fit: cover;
-  border-radius: 50%;
-  border: 2px solid #ccc;
+/* Sidebar styles */
+.sidebar {
+  position: fixed;
+  width: 250px;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: #f8f9fa;
+  overflow-y: auto;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
 }
 
-.sidebar a {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 1rem;
-  color: #333;
+/* Profile section */
+.sidebar .profile {
+  padding: 20px;
   text-align: center;
-  display: block;
-  margin-top: 0.5rem;
-  text-decoration: none;
 }
 
-.sidebar a:hover {
-  color: #005999;
-  text-decoration: underline;
+.sidebar .profile img {
+  max-width: 100%;
+  border-radius: 50%;
+}
+
+/* Links section */
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar ul li {
+  margin: 10px 0;
+}
+
+.sidebar ul li a {
+  text-decoration: none;
+  color: #333;
+  padding: 10px 20px;
+  display: block;
+}
+
+.sidebar ul li a:hover {
+  background-color: #e9ecef;
+  color: #000;
 }
 
 } /* end media screen */
