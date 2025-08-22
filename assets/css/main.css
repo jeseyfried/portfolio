@@ -511,8 +511,8 @@ SIDEBAR
 .sidebar {
   position: fixed;
   width: 250px;
-  height: 100%;
-  top: 0;
+  height: calc(100% - 60px); /* Adjust height to account for navbar */
+  top: 60px; /* Offset to start below the navbar */
   left: 0;
   background-color: #f8f9fa;
   overflow-y: auto;
