@@ -24,14 +24,41 @@ date: 2025-08-23
 **Library Information Specialist**, 2000-2009 and 2022-2025. University of California, San Francisco, Kalmanovitz Health Sciences Library, Brandeis Day School, San Francisco, and the University of New Mexico Health Sciences Library and Informatics Center.
 
 ### Areas of Research Interest
-Medieval Iberia, Provençal, and Italy
-Gender and Sexuality
-Medieval Mediterranean
-Economic History
-Public History
-Digital Humanities
+- Medieval Iberia, Provençal, and Italy
+- Gender and Sexuality
+- Medieval Mediterranean
+- Economic History
+- Public History
+- Digital Humanities
 
 ### Publications
 
 | 2025 | “Medieval Hypebeast: The Conspicuous Consumption of Joan I of Aragon,” *Quidditas*, Vol. 45 (2024). Published in conjunction with the Allen D. Breck Award. (6600 words) |
 | 2025, forthcoming | “The Social Networks of Violant de Bar,” *Medieval People*, Vol. 40 (2025). (9600 words)
+
+### Conference Presentations and Roundtable Participation
+
+| 2025 | “Sugar, Emeralds, and Unicorn Horn: Merchants and Spicers as Agents of Medicinal Knowledge Transfer in the Late Middle Ages,” 32nd Annual International Medieval Congress, Leeds, UK. Monday, July 7th, 2025.|
+| 2025 | “Teaching Premodern Europe in the American Southwest: A Roundtable Discussion,” 32nd Annual International Medieval Congress, Leeds, UK. Monday, July 7th, 2025. |
+| 2025 | “Using Transkribus to Automate Paleographical Transcription for Medieval Catalan,” 57th Annual Rocky Mountain Medieval and Renaissance Association Conference, Logan, UT. Friday, May 30th, 2025.|
+| 2025 | “Gaya Sciencia: The Heterotopias of Joan I of Aragon,” 60th Annual Congress on Medieval Studies, Kalamazoo, MI. Thursday, May 8th, 2025.|
+| 2025 | “Trophies and Trifles: The Masculinity of Elite Hunting in the Middle Ages and Present-Day Global Culture,” 34th Annual Texas Medieval Association Conference, Austin, Texas. Saturday, February 1st, 2025.|
+| 2024 | “Medieval Hypebeast: The Conspicuous Consumption of Joan I of Aragon,” 56th Annual Conference of the Rocky Mountain Medieval and Renaissance Association, Cedar City, UT. Tuesday, August 6, 2024.|
+| 2024 | “The Promotion of French Poetry and Music Through Social Networks in Late Medieval Iberia,” 59th Annual Congress on Medieval Studies, Kalamazoo, MI. Saturday, May 11th, 2024.|
+
+### Awards and Fellowships
+| 2025-2026 | University Innovation Alliance Doctoral Research Fellow |
+| 2024 | **Alan DuPont Breck Award**, Rocky Mountain Medieval and Renaissance Association. Most distinguished paper given by a junior scholar at the annual conference. |
+
+### Professional Skills Seminars
+| 2025 | “Reading Aljamiado Texts,” Mediterranean Summer Skills Seminar, *The Mediterranean Seminar*, Instructor: Nuria de Castilla.|
+| 2024 | “Reading Archival Latin,” Mediterranean Summer Skills Seminar, *The Mediterranean Seminar*, Instructor: Brian A. Catlos. |
+
+### Assistantships
+| 2025 (Spring, Summer, Fall) | Managing Director, Amaranth Digital Humanities Studio |
+| 2025 (Spring) | Graduate Assistant: HIST 1150-003: Western Civilization to 1648 |
+
+### Professional Service and Editorial Experience
+Treasurer for the UNM History Graduate Students Association, 2024-Present
+Guest Editor for the [Books of Duchesses](https://booksofduchesses.com) database, 2024
+Vice Chair of UNM Health Sciences Library and Informatics Center’s Committee for Justice, Equity and Inclusion, 2023-2025
