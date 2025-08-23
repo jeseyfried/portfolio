@@ -11,19 +11,19 @@ I've dabbled with a handful of creative forms, but year after year I keep coming
 
 <div class="bookshelf">
   <a href="https://www.amazon.com/Project-Seedling-Short-Jonathan-Seyfried-ebook/dp/B0B9LNTSS6" target="_blank" rel="noopener noreferrer">
-    <img src="{{ site.baseurl }}/assets/images/bookshelf/project-seedling.jpg" alt="Project Seedling">
+    <img src="{{ site.baseurl }}/assets/images/project-seedling.jpg" alt="Project Seedling">
   </a>
   <a href="https://www.amazon.com/Origin-Flower-Jonathan-Seyfried-ebook/dp/B09XGWNH1W" target="_blank" rel="noopener noreferrer">
-    <img src="{{ site.baseurl }}/assets/images/bookshelf/origin-flower.jpg" alt="Origin Flower">
+    <img src="{{ site.baseurl }}/assets/images/origin-flower.jpg" alt="Origin Flower">
   </a>
   <a href="https://www.amazon.com/Wojciechowski-Wager-Jonathan-Seyfried-ebook/dp/B0B3WBYTNV" target="_blank" rel="noopener noreferrer">
-    <img src="{{ site.baseurl }}/assets/images/bookshelf/wojciechowski-wager.jpg" alt="Wojciechowski Wager">
+    <img src="{{ site.baseurl }}/assets/images/wojciechowski-wager.jpg" alt="Wojciechowski Wager">
   </a>
   <a href="https://www.amazon.com/Guidance-Short-Story-Jonathan-Seyfried-ebook/dp/B0762RDZ85" target="_blank" rel="noopener noreferrer">
-    <img src="{{ site.baseurl }}/assets/images/bookshelf/guidance.jpg" alt="Guidance">
+    <img src="{{ site.baseurl }}/assets/images/guidance.jpg" alt="Guidance">
   </a>
   <a href="https://www.amazon.com/Time-Riven-Jonathan-Seyfried-ebook/dp/B0D1P2G6B2" target="_blank" rel="noopener noreferrer">
-    <img src="{{ site.baseurl }}/assets/images/bookshelf/time-riven.jpg" alt="Time Riven">
+    <img src="{{ site.baseurl }}/assets/images/time-riven.jpg" alt="Time Riven">
   </a>
 </div>
 
