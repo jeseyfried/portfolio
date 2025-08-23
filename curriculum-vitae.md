@@ -7,7 +7,7 @@ date: 2025-08-23
 ---
 
 ## Jonathan Seyfried Curriculum Vitae
-
+<br style="clear: both">
 ### Education
 **Doctor of Philosophy (expected 2028)**, Medieval History, Department of Hisotry, University of New Mexico, Albuquerque, NM, – Advisor Dr. Michael A. Ryan
 
@@ -17,6 +17,8 @@ date: 2025-08-23
 
 
 ### Professional Experience
+**Managing Director**, Amaranth Digital Humanities Studio, 2025-Present. University of New Mexico, Department of History, Research Assistantship.
+
 **Secondary Education, History and Social Studies Teacher**, 2007-2022. Grades 7-12. Subjects taught: AP World History, AP US History, AP Government, Economics, New Mexico History.
 
 **Library Information Specialist**, 2000-2009 and 2022-2025. University of California, San Francisco, Kalmanovitz Health Sciences Library, Brandeis Day School, San Francisco, and the University of New Mexico Health Sciences Library and Informatics Center.

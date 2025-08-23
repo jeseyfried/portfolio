@@ -1,23 +1,9 @@
 ---
-title: Getting Started
+title: Jonathan Seyfried
 layout: base
-date: 2024-12-02
+date: 2025-08-23
 ---
 
 
-# Your home page
-
-{% include figure.html
-  class="right"
-  width="33%"
-  caption="Xanthan chemical structure"
-  image-path="/assets/images/Xanthan.svg"
-  source-url="https://commons.wikimedia.org/wiki/File:Xanthan.svg"
-%}
-
-
-This is your home page! It's the `index.md` file in your repository.
-
-For more information about your site works, see the `Website Guides` tab.
-
-For more on adding features to your pages, see the documentation under the `Page Components` tab.
+# Medievalist and Digital Humanist
+I research gender, culture, and economics in the late fourteenth-century Crown of Aragon, with a focus on the reign of Joan I and Yolande (Violant) de Bar. I also develop methods for combining historical research with emerging technologies and I am the Managing Director of the University of New Mexico Department of History's [Amaranth Studio for Digital Humanities](https://amaranth-unm.github.io/).
