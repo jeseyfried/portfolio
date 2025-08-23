@@ -48,3 +48,6 @@ I've dabbled with a handful of creative forms, but year after year I keep coming
   box-shadow: 0 4px 10px rgba(0,0,0,0.15);
 }
 </style>
+
+## Other Artsy Things
+I occasionally dabble in other art forms, such as 3D-printed sculpture, paper arts, and textile weaving.
