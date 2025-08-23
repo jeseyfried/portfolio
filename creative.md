@@ -49,5 +49,15 @@ I've dabbled with a handful of creative forms, but year after year I keep coming
 }
 </style>
 
+<br style="clear: both">
+
 ## Other Artsy Things
-I occasionally dabble in other art forms, such as 3D-printed sculpture, paper arts, and textile weaving.
+I occasionally dabble in other art forms, such as 3D-printed sculpture, photography, paper arts, and just a little textile weaving.
+
+{% include figure.html
+  class="right"
+  width="40%"
+  caption="My first woven textile"
+  image-path="/assets/images/my-textile.jpg"
+%}
+
