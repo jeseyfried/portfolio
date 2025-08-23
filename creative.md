@@ -7,34 +7,27 @@ date: 2025-08-23
 ---
 
 ## Creative Work
-I've dabbled with a handful of creative forms, but year after year I keep coming back to creative writing. My favorite genre for writing is speculative fiction although I did try my hand at historical fiction once. Below are my currently available creative pieces.
+I've dabbled with a handful of creative forms, but year after year I keep coming back to creative writing. My favorite genre for writing is speculative fiction although I did try my hand at historical fiction once. Below are some of my currently available creative pieces.
 
 <div class="bookshelf">
-  <a href="https://www.amazon.com/Project-Seedling-Short-Jonathan-Seyfried-ebook/dp/B0B9LNTSS6" target="_blank">
-    <img src="https://m.media-amazon.com/images/I/41Loe6DPz4L.jpg" alt="Project Seedling">
+  <a href="https://www.amazon.com/Project-Seedling-Short-Jonathan-Seyfried-ebook/dp/B0B9LNTSS6" target="_blank" rel="noopener noreferrer">
+    <img src="{{ site.baseurl }}/assets/images/bookshelf/project-seedling.jpg" alt="Project Seedling">
   </a>
-  <a href="https://www.amazon.com/Origin-Flower-Jonathan-Seyfried-ebook/dp/B09XGWNH1W" target="_blank">
-    <img src="https://m.media-amazon.com/images/I/41r7HDhB52L.jpg" alt="Origin Flower">
+  <a href="https://www.amazon.com/Origin-Flower-Jonathan-Seyfried-ebook/dp/B09XGWNH1W" target="_blank" rel="noopener noreferrer">
+    <img src="{{ site.baseurl }}/assets/images/bookshelf/origin-flower.jpg" alt="Origin Flower">
   </a>
-  <a href="https://www.amazon.com/Wojciechowski-Wager-Jonathan-Seyfried-ebook/dp/B0B3WBYTNV" target="_blank">
-    <img src="https://m.media-amazon.com/images/I/41jaV+vXz1L.jpg" alt="Wojciechowski Wager">
+  <a href="https://www.amazon.com/Wojciechowski-Wager-Jonathan-Seyfried-ebook/dp/B0B3WBYTNV" target="_blank" rel="noopener noreferrer">
+    <img src="{{ site.baseurl }}/assets/images/bookshelf/wojciechowski-wager.jpg" alt="Wojciechowski Wager">
   </a>
-  <a href="https://www.amazon.com/Guidance-Short-Story-Jonathan-Seyfried-ebook/dp/B0762RDZ85" target="_blank">
-    <img src="https://m.media-amazon.com/images/I/41iSCltrdZL.jpg" alt="Guidance">
+  <a href="https://www.amazon.com/Guidance-Short-Story-Jonathan-Seyfried-ebook/dp/B0762RDZ85" target="_blank" rel="noopener noreferrer">
+    <img src="{{ site.baseurl }}/assets/images/bookshelf/guidance.jpg" alt="Guidance">
   </a>
-  <a href="https://www.amazon.com/Time-Riven-Jonathan-Seyfried-ebook/dp/B015KVEEPA" target="_blank">
-    <img src="https://m.media-amazon.com/images/I/51UUPZL8NPL.jpg" alt="Time Riven">
-  </a>
-  <a href="https://www.amazon.com/Time-Fragility-Riven-Book-ebook/dp/B01E1RL1AK" target="_blank">
-    <img src="https://m.media-amazon.com/images/I/51J2eyjNtdL.jpg" alt="The Fragility of Time">
-  </a>
-  <a href="https://www.amazon.com/Time-Crash-Riven-Book-ebook/dp/B073WJN37V" target="_blank">
-    <img src="https://m.media-amazon.com/images/I/51lGZOnrZHL.jpg" alt="Time Crash">
-  </a>
-  <a href="https://www.amazon.com/Keenan-Filby-Mystery-Palace-Hotel-ebook/dp/B07MHJKLG6" target="_blank">
-    <img src="https://m.media-amazon.com/images/I/41w7Tq72glL.jpg" alt="The Keenan-Filby Mystery">
+  <a href="https://www.amazon.com/Time-Riven-Jonathan-Seyfried-ebook/dp/B0D1P2G6B2" target="_blank" rel="noopener noreferrer">
+    <img src="{{ site.baseurl }}/assets/images/bookshelf/time-riven.jpg" alt="Time Riven">
   </a>
 </div>
+
+
 
 <style>
 .bookshelf {
