@@ -9,7 +9,7 @@ date: 2025-08-23
 ## Jonathan Seyfried Curriculum Vitae
 <br style="clear: both">
 ### Education
-**Doctor of Philosophy (expected 2028)**, Medieval History, Department of Hisotry, University of New Mexico, Albuquerque, NM, – Advisor Dr. Michael A. Ryan
+**Doctor of Philosophy (expected 2028)**, Medieval History, Department of History, University of New Mexico, Albuquerque, NM, – Advisor Dr. Michael A. Ryan
 
 **Master of Arts in Education**, Stanford University, Stanford, CA. June 2010.
 
