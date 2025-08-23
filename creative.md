@@ -19,9 +19,6 @@ I've dabbled with a handful of creative forms, but year after year I keep coming
   <a href="https://www.amazon.com/Wojciechowski-Wager-Jonathan-Seyfried-ebook/dp/B0B3WBYTNV" target="_blank" rel="noopener noreferrer">
     <img src="{{ site.baseurl }}/assets/images/wojciechowski-wager.jpg" alt="Wojciechowski Wager">
   </a>
-  <a href="https://www.amazon.com/Guidance-Short-Story-Jonathan-Seyfried-ebook/dp/B0762RDZ85" target="_blank" rel="noopener noreferrer">
-    <img src="{{ site.baseurl }}/assets/images/guidance.jpg" alt="Guidance">
-  </a>
   <a href="https://www.amazon.com/Time-Riven-Jonathan-Seyfried-ebook/dp/B0D1P2G6B2" target="_blank" rel="noopener noreferrer">
     <img src="{{ site.baseurl }}/assets/images/time-riven.jpg" alt="Time Riven">
   </a>

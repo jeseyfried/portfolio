@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two');
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Oswald');
@@ -31,7 +32,7 @@ html, body {
 }
 
 .page-content h1 {
-  font-family: 'Abril Fatface', sans-serif;
+  font-family: 'Lobster Two', sans-serif;
   color: #333;
   font-size: 2.5rem;
   text-align: left;
@@ -39,7 +40,7 @@ html, body {
 }
 
 .page-content h2 {
-  font-family: 'Abril Fatface', sans-serif;
+  font-family: 'Lobster Two', sans-serif;
   color: #555;
   font-size: 1.8rem;
   text-align: left;
