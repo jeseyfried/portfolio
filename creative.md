@@ -55,9 +55,16 @@ I've dabbled with a handful of creative forms, but year after year I keep coming
 I occasionally dabble in other art forms, such as 3D-printed sculpture, photography, paper arts, and just a little textile weaving.
 
 {% include figure.html
+  class="left"
+  width="35%"
+  caption="A few journals I made around ten years ago"
+  image-path="/assets/images/paper-arts.jpg"
+%}
+
+{% include figure.html
   class="right"
   width="40%"
-  caption="My first woven textile"
+  caption="My first woven textile, made in March 2025"
   image-path="/assets/images/my-textile.jpg"
 %}
 
