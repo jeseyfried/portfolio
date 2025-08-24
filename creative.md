@@ -6,7 +6,7 @@ author: Jonathan Seyfried
 date: 2025-08-23
 ---
 
-## Creative Work
+# Creative Work
 I've dabbled with a handful of creative forms, but year after year I keep coming back to creative writing. My favorite genre for writing is speculative fiction although I did try my hand at historical fiction once. Below are some of my currently available creative pieces.
 
 <div class="bookshelf">
@@ -61,3 +61,4 @@ I occasionally dabble in other art forms, such as 3D-printed sculpture, photogra
   image-path="/assets/images/my-textile.jpg"
 %}
 
+<br style="clear: both">
