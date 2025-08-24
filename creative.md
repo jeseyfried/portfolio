@@ -56,7 +56,7 @@ I occasionally dabble in other art forms, such as 3D-printed sculpture, photogra
 
 {% include figure.html
   class="left"
-  width="35%"
+  width="48%"
   caption="A few journals I made around ten years ago"
   image-path="/assets/images/paper-arts.jpg"
 %}
