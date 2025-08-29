@@ -42,6 +42,9 @@ NAVIGATION
     margin-top: 1.3rem;
 }
 
+.navbar-brand {
+  color: #333;
+}
  
 .navigation-list {
   list-style: none;
