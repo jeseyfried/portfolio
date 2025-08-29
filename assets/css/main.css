@@ -509,7 +509,7 @@ SIDEBAR
 /* Sidebar styles */
 .sidebar {
   position: fixed;
-  padding-top: 60px
+  padding-top: 60px;
   width: 250px;
   height: 100vh; 
   top: 0px; /* Offset to start below the navbar */
