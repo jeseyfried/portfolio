@@ -9,6 +9,10 @@ nav {
   z-index: 101;
 }
 
+a.navbar-brand {
+  color: #f50707;
+}
+
 .site-title {
   font-size: 1.3rem;
   font-weight: 700;
@@ -30,7 +34,7 @@ nav {
 }
 
 .navbar-brand {
-  color: #333;
+  padding-top: 0; 
 }
  
 .navigation-list {
