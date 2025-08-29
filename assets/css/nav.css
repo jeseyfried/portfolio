@@ -5,21 +5,8 @@ NAVIGATION
 
 @media screen {
 
-
-  /* Sidebar styles */
-.side-bar {
-  background: #f8f9fa;
-  border-right: 1px solid #e5e5e5;
-  min-width: 260px;
-  max-width: 320px;
-  padding: 32px 24px 24px 24px;
-  position: fixed;
-  top: 4rem;
-  left: 0;
-  height: 100vh;
-  overflow-y: auto;
-  z-index: 100;
-  box-shadow: 2px 0 8px rgba(0,0,0,0.04);
+nav {
+  z-index: 101;
 }
 
 .site-title {
