@@ -28,6 +28,7 @@ html, body {
 .container {
   max-width: 50rem;
   margin: 0 auto;
+  padding-left: 260px;
   clear:both;
 }
 
@@ -580,9 +581,12 @@ SIDEBAR
   @media (max-width: 768px) {
 
 
-  main {
-    margin: 0 1.5%;
-  }
+.container {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 1rem;
+  clear:both;
+}
 
 .lg-left-col p{
   width:100%;
