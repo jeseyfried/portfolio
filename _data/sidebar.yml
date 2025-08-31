@@ -1,3 +1,5 @@
+settings:
+  links_font_weight: normal
 profile:
   image_url: /assets/images/site/js-photo-3.jpeg
   alt_text: "Profile photo of Jonathan"

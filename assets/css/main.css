@@ -547,6 +547,13 @@ SIDEBAR
 }
 
 /* Links section */
+
+.sidebar a.sidebar-link { font-weight: inherit; }
+.sidebar a.sidebar-link.link-fw-normal { font-weight: normal; }
+.sidebar a.sidebar-link.link-fw-bold { font-weight: bold; }
+.sidebar a.sidebar-link i { margin-right: 8px; }
+
+
 .sidebar ul {
   list-style: none;
   padding: 0;
