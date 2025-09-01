@@ -30,6 +30,7 @@ date: 2025-08-23
 - Economic History
 - Public History
 - Digital Humanities
+
 <br style="clear: both">
 
 ### Publications
@@ -60,7 +61,7 @@ Forthcoming: 'The Social Networks of Violant de Bar,' *Medieval People*, Vol. 40
 
 ### Awards and Fellowships
 
-2025-2026 University Innovation Alliance Doctoral Research Fellow 
+2025-2026 **University Innovation Alliance Doctoral Research Fellow** 
 
 2024 **Alan DuPont Breck Award**, Rocky Mountain Medieval and Renaissance Association. Most distinguished paper given by a junior scholar at the annual conference. 
 
@@ -77,6 +78,7 @@ Forthcoming: 'The Social Networks of Violant de Bar,' *Medieval People*, Vol. 40
 ### Assistantships
 
 2025, Spring-Fall: Studio Director, Amaranth Digital Humanities Studio
+
 2025, Spring: Graduate Assistant: HIST 1150-003: Western Civilization to 1648
 
 <br style="clear: both">
