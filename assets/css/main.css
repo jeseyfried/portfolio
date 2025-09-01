@@ -370,8 +370,15 @@ figure {
   margin-right:auto;
 }
 
+.figure-caption {
+  display: block;
+  margin-top: 6px;
+  font-size: 0.9rem;
+  color: #0b0b0b;
+}
+
 figcaption {
-  color:#888;
+  color:#060606;
   font-family: 'Oxygen', sans-serif;
   display:block;
   font-size:.8rem;
