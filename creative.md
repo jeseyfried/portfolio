@@ -31,7 +31,7 @@ I've dabbled with a handful of creative forms, but year after year I keep coming
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   gap: 20px;
-  max-width: 900px;
+  max-width: 1100px;
   margin: 0 auto;
 }
 .bookshelf a {
