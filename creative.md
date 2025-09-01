@@ -63,7 +63,7 @@ I occasionally dabble in other art forms, such as 3D-printed sculpture, photogra
 
 {% include figure.html
   class="right"
-  width="40%"
+  width="30%"
   caption="My first woven textile, made in March 2025"
   image-path="/assets/images/my-textile.jpg"
 %}
