@@ -9,6 +9,24 @@
 PAGE SETUP
 *****************************************************/
 
+:root {
+  /* Primary pastel palette */
+  --color-blush:       #EDAFB8; /* Soft pink / Blush */
+  --color-cream:       #F7E1D7; /* Light cream */
+  --color-sand:        #DEDBD2; /* Subtle sandy beige */
+  --color-mint:        #B0C4B1; /* Delicate mint green */
+  --color-charcoal:    #4A5759; /* Dark muted charcoal */
+
+  /* Optional semantic aliases */
+  --color-background:  var(--color-cream);
+  --color-foreground:  var(--color-charcoal);
+  --color-accent:      var(--color-blush);
+  --color-muted:       var(--color-sand);
+  --color-highlight:   var(--color-mint);
+}
+
+
+
 #sheetrock {
   display:none;
 }
@@ -19,7 +37,7 @@ html, body {
   height: 100vh;
   font-family: 'Open Sans', sans-serif;
   line-height: 1.4em;
-  background-color: #D3D9D4;
+  background-color: var(--color-background);
   font-size: 15px;
   width:100%;
 }
