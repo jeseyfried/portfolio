@@ -1,1 +1,7 @@
 baseurl: /portfolio/
+repository: jeseyfried/portfolio
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "base"
