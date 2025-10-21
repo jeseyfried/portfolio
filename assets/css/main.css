@@ -12,14 +12,14 @@ PAGE SETUP
 :root {
   /* Primary pastel palette */
   --color-blush:       #EDAFB8; /* Soft pink / Blush */
-  --color-cream:       #F7E1D7; /* Light cream */
+  --color-lightblue:   #168aad; /* Light blue */
   --color-sand:        #DEDBD2; /* Subtle sandy beige */
   --color-mint:        #B0C4B1; /* Delicate mint green */
-  --color-charcoal:    #4A5759; /* Dark muted charcoal */
+  --color-purple:      #513B56; /* Purple */
 
   /* Optional semantic aliases */
-  --color-background:  var(--color-cream);
-  --color-foreground:  var(--color-charcoal);
+  --color-background:  var(--color-lightblue);
+  --color-foreground:  var(--color-purple);
   --color-accent:      var(--color-blush);
   --color-muted:       var(--color-sand);
   --color-highlight:   var(--color-mint);
@@ -38,7 +38,7 @@ html, body {
   font-family: 'Open Sans', sans-serif;
   line-height: 1.4em;
   background-color: var(--color-background);
-  font-size: 15px;
+  font-size: 20px;
   width:100%;
 }
 
@@ -540,7 +540,7 @@ SIDEBAR
   height: 100vh; 
   top: 0px; /* Offset to start below the navbar */
   left: 0;
-  background-color: #f8f9fa;
+  background-color: #e67f8e;
   overflow-y: auto;
   box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
 }
@@ -561,14 +561,14 @@ SIDEBAR
   text-align: left; /* Align text to the left */
   padding: 10px;
   font-size: 14px;
-  color: #555;
+  color: #080808;
 }
 /* Profile header */
 .sidebar .profile h2 {
   text-align: left; /* Align text to the left */
   padding: 10px;
   font-size: 1.2rem;
-  color: #555;
+  color: #0f0e0f;
 }
 
 /* Links section */
@@ -660,7 +660,7 @@ figure.img-right-col {
 /** Variables **/
 
 :root {
-  --color-background: #e7e7e7;
+  --color-background: #fee9e9;
   --color-background-alt: #888888;
   --color-border-active: #da7105;
   --color-border-default: #d1d1d1;
